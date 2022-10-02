@@ -3,7 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/stijn/MPLABXProjects/WaardeloosCompleetWaardeloosProject.X/Project.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/Definess.h</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/UpdateAfstand.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/Init.h</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/main.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/spiWriteInput.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/UpdateKanaal.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/Init.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/Kalibreren.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/SpiInit.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/spiWord.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/spiWrite.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/spiWriteVol.c</file>
+            <file>file:/C:/Users/stijn/MPLABXProjects/MAINPROJECTWITHLIBS.X/UpdateVolume.c</file>
         </group>
     </open-files>
 </project-private>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <executable name="dist/default/production\WaardeloosCompleetProject.X.production.hex">
+  <executable name="dist/default/production\MAINPROJECTWITHLIBS.X.production.hex">
     <memory name="program">
       <units>words</units>
       <length>8192</length>
-      <used>951</used>
-      <free>7241</free>
+      <used>2619</used>
+      <free>5573</free>
     </memory>
     <memory name="data">
       <units>bytes</units>
       <length>368</length>
-      <used>51</used>
-      <free>317</free>
+      <used>67</used>
+      <free>301</free>
     </memory>
   </executable>
 </project>
