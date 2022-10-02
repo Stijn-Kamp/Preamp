@@ -10,9 +10,9 @@ CND_CONF=default
 CND_DISTDIR=dist
 TMPDIR=build/${CND_CONF}/${IMAGE_TYPE}/tmp-packaging
 TMPDIRNAME=tmp-packaging
-OUTPUT_PATH=dist/${CND_CONF}/${IMAGE_TYPE}/WaardeloosCompleetProject.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
-OUTPUT_BASENAME=WaardeloosCompleetProject.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
-PACKAGE_TOP_DIR=waardelooscompleetproject.x/
+OUTPUT_PATH=dist/${CND_CONF}/${IMAGE_TYPE}/MAINPROJECTWITHLIBS.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
+OUTPUT_BASENAME=MAINPROJECTWITHLIBS.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
+PACKAGE_TOP_DIR=mainprojectwithlibs.x/
 
 # Functions
 function checkReturnCode
@@ -57,15 +57,15 @@ mkdir -p ${TMPDIR}
 
 # Copy files and create directories and links
 cd "${TOP}"
-makeDirectory ${TMPDIR}/waardelooscompleetproject.x/bin
+makeDirectory ${TMPDIR}/mainprojectwithlibs.x/bin
 copyFileToTmpDir "${OUTPUT_PATH}" "${TMPDIR}/${PACKAGE_TOP_DIR}bin/${OUTPUT_BASENAME}" 0755
 
 
 # Generate tar file
 cd "${TOP}"
-rm -f ${CND_DISTDIR}/${CND_CONF}/package/waardelooscompleetproject.x.tar
+rm -f ${CND_DISTDIR}/${CND_CONF}/package/mainprojectwithlibs.x.tar
 cd ${TMPDIR}
-tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/package/waardelooscompleetproject.x.tar *
+tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/package/mainprojectwithlibs.x.tar *
 checkReturnCode
 
 # Cleanup

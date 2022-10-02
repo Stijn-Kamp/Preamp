@@ -3,14 +3,12 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>WaardeloosCompleetWaardeloosProject</name>
-            <name>WaardeloosCompleetProject</name>
-            <name>CompleetProject</name>
-            <creation-uuid>3bb5494c-e13a-4136-8e3f-8d1c1de39d6a</creation-uuid>
+            <name>MAINPROJECTWITHLIBS</name>
+            <creation-uuid>a63a6d17-85b2-41e3-8f91-a957a2d7e50c</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
             <cpp-extensions/>
-            <header-extensions/>
+            <header-extensions>h</header-extensions>
             <asminc-extensions/>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
